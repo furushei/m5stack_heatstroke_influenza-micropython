@@ -1,1 +1,2 @@
-# m5stack_heatstroke_influenza-micropython
+# M5Stackを使った「温湿度計+α」
+
